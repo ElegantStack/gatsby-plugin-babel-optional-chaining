@@ -1,4 +1,4 @@
-# Gatsby plugin for babel optional chaining operator
+# gatsby-plugin-babel-optional-chaining
 
 ## Description
 
